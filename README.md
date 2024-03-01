@@ -1,4 +1,4 @@
-# Vrinda-Store-Report-March-2024
+# Vrinda-Store-Excel Report March-2024 
 Women are more likely to buy compared to men (~65%).
 
 Maharashtra, Karnataka and Uttar pradesh are the top 3 states (~35%).
